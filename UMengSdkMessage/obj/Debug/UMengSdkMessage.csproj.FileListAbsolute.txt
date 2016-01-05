@@ -1,0 +1,5 @@
+E:\xamarin\UMengSdkMessage-For-Xamarin-Android-master\UMengSdkMessage\bin\Debug\UMengSdkMessage.dll
+E:\xamarin\UMengSdkMessage-For-Xamarin-Android-master\UMengSdkMessage\bin\Debug\UMengSdkMessage.pdb
+E:\xamarin\UMengSdkMessage-For-Xamarin-Android-master\UMengSdkMessage\obj\Debug\UMengSdkMessage.csprojResolveAssemblyReference.cache
+E:\xamarin\UMengSdkMessage-For-Xamarin-Android-master\UMengSdkMessage\obj\Debug\UMengSdkMessage.dll
+E:\xamarin\UMengSdkMessage-For-Xamarin-Android-master\UMengSdkMessage\obj\Debug\UMengSdkMessage.pdb
